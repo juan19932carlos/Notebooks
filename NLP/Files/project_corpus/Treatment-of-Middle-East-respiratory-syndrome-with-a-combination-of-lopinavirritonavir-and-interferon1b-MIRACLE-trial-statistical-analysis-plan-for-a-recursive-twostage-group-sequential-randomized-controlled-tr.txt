@@ -1,0 +1,51 @@
+﻿
+statistical analysis plan for a recursive twostage group sequential randomized
+
+The MIRACLE trial (MERS-CoV Infection tReated with A Combination of Lopinavir/ritonavir and intErferon-β1b)
+investigates the efficacy of a combination therapy of lopinavir/ritonavir and recombinant interferon-β1b provided
+with standard supportive care, compared to placebo provided with standard supportive care, in hospitalized
+patients with laboratory-confirmed MERS. The MIRACLE trial is designed as a recursive, two-stage, group sequential,
+multicenter, placebo-controlled, double-blind randomized controlled trial. The aim of this article is to describe the
+statistical analysis plan for the MIRACLE trial. The primary outcome is 90-day mortality. The primary analysis will
+follow the intention-to-treat principle. The MIRACLE trial is the first randomized controlled trial for MERS treatment.
+Trial registration: ClinicalTrials.gov, NCT02845843. Registered on 27 July 2016.
+Keywords: Coronavirus, MERS, Antiviral, Clinical trial, Lopinavir/ritonavir, Interferon-β1b, Statistical analysis plan,
+Protocol
+
+syndrome coronavirus (MERS-CoV). MERS cases continue to occur and are often associated with respiratory
+Middle East respiratory syndrome (MERS) is a viral respiratory disease caused by the Middle East respiratory
+and multiorgan failure [1]. There is no antiviral treatment with proven efficacy at present [1, 2].
+The MIRACLE trial (MERS-CoV Infection tReated
+with A Combination of Lopinavir/ritonavir and intErferon-β1b) is the first randomized controlled trial for
+MERS treatment. The study protocol has been previously published [3].
+There are several challenges in a trial for treatment of a
+disease like MERS: (1) there is not enough information on
+the effect size of the lopinavir/ritonavir and interferon-β1b
+provided with standard supportive care compared to placebo provided with standard supportive care to conduct
+adequate planning for the study sample size; (2) MERS is
+a sporadic, unpredictable, and rare disease, which makes it
+difficult to plan a separate pilot study to collect the necessary information needed for the planning of the main trial.
+To overcome these challenges, we designed the MIRACLE
+trial as a recursive two-stage adaptive trial, which is a relatively new method for group sequential trials [4–7]. The
+approach is based on the conditional error principle,
+which allows for flexible and continuous adjustment of
+the trial parameters using data observed during prior
+stages without inflation of the type I error [8]. Another advantage of this method is the flexibility in setting the timing and the number of needed interim analyses. Such
+flexibility is necessary in a situation where recruitment
+rate is unpredictable and a sudden flux in recruitment of
+patients could happen at any time. Finally, the design
+takes advantage of the accumulated information throughout the trial from every single recruited patient as opposed
+to a traditional two-study approach (pilot followed by the
+main trial).
+In this article, we describe the MIRACLE trial statistical analysis plan (SAP) in advance of trial completion.
+We identify the procedures to be followed for the primary and secondary analyses for the trial. The SAP was
+written by the study steering committee members led by
+the principal investigator, who remains blinded to both
+group allocation and to study results until after completing patient recruitment, patient follow-up, and completion and locking of the database. The final study report
+will follow the guidelines of the Consolidated Standards
+of Reporting Trials (CONSORT) for reporting randomized controlled trials [9, 10].
+The trial is being conducted according to the standard
+requirements of Good Clinical Practice E6 [11]. The
+SAP was developed in accordance with the International
+Council for Harmonisation guidelines (E9 Statistical
+principles for clinical trials and E3 clinical study reports

@@ -1,0 +1,53 @@
+﻿The epidemic of 2019-novel-coronavirus (2019-nCoV) pneumonia and insights for emerging infectious diseases in the future
+Jin-Yan Li a, 1, Zhi You a, 1, Qiong Wang a, Zhi-Jian Zhou a, Ye Qiu a, Rui Luo b, c, Xing-Yi Ge a, *
+a
+
+Article history:
+
+At the end of December 2019, a novel coronavirus, 2019-nCoV, caused an outbreak of pneumonia
+spreading from Wuhan, Hubei province, to the whole country of China, which has posed great threats to
+public health and attracted enormous attention around the world. To date, there are no clinically
+approved vaccines or antiviral drugs available for these human coronavirus infections. Intensive research
+on the novel emerging human infectious coronaviruses is urgently needed to elucidate their route of
+transmission and pathogenic mechanisms, and to identify potential drug targets, which would promote
+the development of effective preventive and therapeutic countermeasures. Herein, we describe the
+epidemic and etiological characteristics of 2019-nCoV, discuss its essential biological features, including
+tropism and receptor usage, summarize approaches for disease prevention and treatment, and speculate
+on the transmission route of 2019-nCoV.
+© 2020 Institut Pasteur. Published by Elsevier Masson SAS. All rights reserved.
+
+Keywords:
+2019-nCoV
+Pneumonia
+ACE2
+Spike
+SARS-CoV
+Bat
+
+In December 2019, a novel coronavirus was detected in pneumonia patients which was later named 2019-nCoV. Since the ﬁrst
+human coronavirus detected in the 1960s, 2019-nCoV is the seventh coronavirus that is known to infect humans [1]. Among all the
+human coronaviruses, four of them, including NL-63, 229E, HKU1
+and OC43, cause mild illness, while the other three, SARS-CoV,
+MERS-CoV and 2019-nCoV, lead to serious disease [2]. To characterize the new pathogen causing acute infection in humans, researchers have conducted urgent studies on the 2019-nCoV, from
+its epidemiology and clinical medicine to etiology and virology. This
+review focuses on the epidemiology and clinical manifestations of
+2019-nCoV, the diagnosis and treatment of infected patients, and in
+particular, evidence regarding the origin of 2019-nCoV.
+
+* Corresponding author.
+
+On 31th December 2019, the ﬁrst pneumonia case of unknown
+etiology was reported in Wuhan City, Hubei Province, China. In
+order to identify the etiology, a number of possible etiological
+agents were ruled out, including the Severe acute respiratory syndrome coronavirus (SARS-CoV), the Middle-East respiratory syndrome coronavirus (MERS-CoV), avian inﬂuenza virus, and other
+common respiratory pathogens. Finally, a new coronavirus,
+temporally named 2019-nCoV, was identiﬁed to be the pathogen
+responsible for disease, and it was announced by World Health
+Organization (WHO) on 12th January [3]. As of January 11, 2020, 41
+pneumonia cases were diagnosed, including seven severe cases and
+one death [2]. At that time, there was no evidence of person-toperson transmission according to the scientiﬁc literature. The ﬁrst
+“super-spreading” event became a hallmark of the epidemiology of
+the disease. On January 20, 2020, in epidemiological investigations,
+two local infections in patients who were infected by 2019-nCoV
+without physical visits to Wuhan were reported in Guangdong
+Province, which conﬁrmed the occurrence of human-to-human

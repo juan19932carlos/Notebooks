@@ -1,0 +1,148 @@
+The immune response of young turkeys to haemorrhagic enteritis virus infection at different levels and sources of methionine in the diet
+Bartłomiej Tykałowski1* , Marcin Śmiałek1, Andrzej Koncicki1, Katarzyna Ognik2, Zenon Zduńczyk3 and
+Jan Jankowski4
+
+Haemorrhagic enteritis (HE) of turkeys was first described in 1937 in the USA, while in Poland it was
+first diagnosed in 1987. Polish haemorrhagic enteritis virus (HEV) isolates are usually low pathogenic and trigger a
+subclinical disease. Unfortunately, even the low- pathogenic HEV strains cause severe immunosuppression leading
+to secondary bacterial infections and huge economic losses. The objective of this study was to evaluate if the
+influence of Met on HEV infected turkeys immune response can be differentiated by both its level and source. Met
+is one of the amino acids that not only play a nutritional role but also participate in and regulate key metabolic
+pathways and immune response. In our study, the birds were assigned to 4 dietary treatments which differed in
+Met levels (0.55 and 0.78% in weeks 1–4 of age and 0.45 and 0.65% in weeks 5–8 of age, respectively) and sources
+(DL-methionine (DLM) or DL-methionine hydroxy analogue (MHA)).
+Results: The HEV added the percentage of CD4+ cells and decreased the percentage of IgM+ cells in the blood,
+spleen and caecal tonsils (CTs) of turkeys. In addition, it increased the percentage of CD4+CD25+ cells in blood, and
+interleukin-6 (IL-6) level in plasma. The higher dose of Met led to a significant decrease in the percentages of CD4+,
+CD8+ and CD4+IL-6+ cell subpopulations in the blood of HEV-infected and uninfected turkeys and to an increase in
+the percentage of IgM+ B cells in CTs. Turkeys administered feeds with an increased Met content displayed a
+decrease in plasma IL-6 levels and an increase in plasma IgA levels.
+Conclusions: The results of this study indicate that HEV infection impairs the immune function in turkeys. Met
+content in the feed has a moderate effect on the immune response in HEV-infected turkeys. The source of this
+amino acid appears not be as important as its dose, because value of the analysed parameters did not differ
+significantly between turkeys receiving feeds with DLM or MHA. In the uninfected turkeys, the higher by 40% (than
+recommended by NRC) level of Met in the feeds had a positive effect on humoral immunity parameters.
+Keywords: Methionine, Haemorrhagic enteritis virus, Immune response, Turkeys
+
+Haemorrhagic enteritis (HE) was first described in turkeys in
+1937 by Pomeroy and Fenstermacher at Minnesota, USA [5].
+In Poland, it was first diagnosed in 1987 [16]. Haemorrhagic
+enteritis virus (HEV) belongs to the family Adenoviridae,
+genus Siadenovirus. Under field conditions, susceptible to
+HEV infection are mainly turkeys over 4–6 weeks of life,
+whereas disease develops most often in 7–9 week old birds.
+HEV infection is usually asymptomatic. It may, however,
+proceed with depression, sanguineous excreta, and mortality
+rate approximating 80% only in the case of infection with
+highly pathogenic strains [5, 16, 40]. The Polish HEV isolates
+are usually low-pathogenic and induce subclinical infections,
+but severely impair the humoral and cellular reactivity of the
+immune system. At the acute stage of the disease, the percentage of B lymphocytes decreases significantly in blood
+and many immune organs, and the balance between percentage of CD4+ and CD8+ T lymphocytes is upset [40]. HEV
+has been shown to infect macrophages and reduce their
+functional capabilities. HEV-infected macrophages may
+undergo necrosis and apoptosis [28]. This may enhance the
+susceptibility to bacterial (usually E. coli and Ornithobacterium rhinotracheale (ORT)) and other viral infections in
+HEV-infected turkeys [5, 16, 17, 27].. An increased mortality
+rate due to superinfections with E. coli bacteria is usually observed between week 2 and 4 of life after infection with a
+low-pathogenic HE virus and may range from 2.5 to 6.5%
+weekly [24]. Considering the frequent exposure of turkeys to
+HEV infections and, consequently, their suppressed immunity, any actions aimed at aiding defence mechanisms in the
+course of the infection should be deemed highly desirable
+and valuable. One of the means to improve the health status
+of turkeys in commercial production is to supplement their
+feed mixtures with substances exhibiting immunostimulating
+effects. This is expected to alleviate negative outcomes of
+HEV and improve the birds health status and resultantly (by
+decreasing amounts of antibiotics used) to improve turkey
+production effectiveness and quality of poultry products. The
+substances with proved, positive impact on the immune system of poultry and their body weight gains include, i.a., vitamins, probiotics, essential oils, herbs, nucleotides, and amino
+acids [4, 18, 19].
+Methionine (Met) is the first limiting amino acid in
+feeds of poultry because the Met content of natural feed
+ingredients is generally low (0.3–0.4%), below the requirements of fast-growing chickens and turkeys [12, 29]. Dietary Met content should be higher particularly in the first
+month of rearing, at 0.55% or even 0.70%, according to
+the recommendations of NRC [23] and British United
+Turkeys [2], respectively. Therefore, commercial feeds are
+usually supplemented with feed-grade Met, i.e. DLmethionine (DLM) or DL-methionine hydroxy analogue
+(MHA) [43]. Chemically, MHA is not an amino acid but a
+metabolic precursor of DLM and a very effective source of
+
+supplemental Met [7, 41]. Some studies have revealed
+MHA to be more effective in improving the antioxidant
+status of chickens and turkeys than DLM [25, 38, 42].
+The results of recent research indicate that Met is one
+of the amino acids that not only play a nutritional role
+but also participate in and regulate key metabolic pathways [1, 11, 22] including those related to the immune
+system function [12, 13, 19]. One of the mechanisms
+proposed to explain Met interference in the immune
+system is the proliferation of T cells that are sensitive to
+intracellular variations in glutathione and cysteine levels,
+i.e. compounds which also participate in Met metabolism [8, 15]. The findings of other authors indicate that
+dietary Met can be a major contributor to the synthesis
+of immune system proteins, including antibodies such as
+IgA [44]. IgA is a major immunoglobulin synthesized locally and secreted onto the surface of mucous membranes of respiratory airways, gastrointestinal tract,
+reproductive system, and many other sites. It represents
+the main element of mucosal immune system. In blood
+serum, it circulates in the form of monomers in secretions with a dimer, a trimer or a tetramer. Mucosal IgA
+possesses a secretory component (SC) which promotes
+its adhesion to epithelial surface and provides protection
+from proteolytic degradation within cells [10].
+Experimental evidence [3, 37] has shown that
+humoral stimulation and cellular immune responses
+were enhanced in broiler chickens administered feeds
+supplemented with Met in excess of NRC dietary recommendations [23]. In a study by Jankowski et al.
+[14], an increase in plasma IL-6 levels was noted in
+turkeys administered feeds with a higher Met content.
+In other experiment on young turkeys, the higher
+dietary Met content elevated IgA concentration and
+decreased IL-6 plasma level [45]. IL-6 is a multifunctional cytokine that plays a major role in regulating
+immune responses, acute phase reactions and haematopoiesis. It is a pro-inflammatory cytokine in both
+birds and mammals and is produced early after infection as part of the induced innate immune response.
+IL-6 plays a pivotal role during the transition from
+innate to acquired immunity, and is also involved in
+the regulation of metabolic, regenerative, and neural
+processes. This cytokine is produced by many different cell types (monocytes, macrophages, lymphocytes,
+fibroblasts, endothelial cells and chondrocytes) and
+acts on T cells, B cells, hepatocytes, haematopoietic
+progenitor cells and cells of the central nervous system [30, 31]. In addition, IL-6 plays a key role in the
+development of inflammatory lesions in intestinal mucosa of HEV-infected turkeys [27].
+The available literature provides no information on the effects of Met on the immune system functioning in turkeys
+infected with a pathogen with a strong immunosuppressive
+
+The average body weight (BW) of 56-day-old uninfected
+and HEV-infected turkeys ranged from 3.94 to 4.06 kg,
+and from 3.87 to 4.02 kg, respectively. No significant differences in BW were found between HEV-infected and
+uninfected turkeys administered feeds supplemented
+with DLM or MHA. From the day of experimental infection (42 days of age) until the end of the experiment (56
+days of age), no mortality was recorded in the infected
+and uninfected groups.
+Tables 1, 2 and 3 show the percentages of CD4+,
+CD4+CD25+, CD8+, CD4+CD8+ T cell subpopulations
+and IgM+ B cell subpopulation within the mononuclear
+cells isolated from the blood, spleen and caecal tonsils
+(CTs) of 47-day-old uninfected (0) and HEV- infected
+(HE) turkeys from groups DLML, MHAL, DLMH and
+MHAH. The percentages of the analysed T cell and B
+cell subpopulations in the blood (Table 1), spleen
+(Table 2) and CTs (Table 3) of turkeys were most influenced by HEV infection, followed by dietary Met levels
+(which exerted a weaker effect on the analysed parameters) and Met sources (which exerted a minor effect). In
+the acute phase of infection (first 5 days post inoculation
+(p.i.)), the HEV-infected turkeys displayed a significant
+increase in the percentage of CD4+ cells and a decrease
+in the percentage of IgM+ B cells in blood (both P <
+0.001), spleen (both P < 0.001) and CTs (P = 0.005 and
+P < 0.001, respectively), compared with the uninfected
+birds. The higher dose of Met, regardless of its source,
+led to a significant decrease in the percentages of CD4+
+cell (P = 0.009) and CD8+ cell (P = 0.027) subpopulations
+in the blood of HEV-infected and uninfected turkeys
+(Table 1), and an increase in the percentage of IgM+ B
+cells (P = 0.015) in CTs (Table 3).
+Both the HEV experimental infection and increased
+dietary Met content contributed to a significant (P <
+0.001) decrease in the blood percentage of CD4+ cells,
+synthesizing IL-6 in response to mitogenic stimulation
+under in vitro conditions. The HEV infection had a similar effect on IL-6 synthesis by CD4+ cells isolated from
+the spleen and CTs of turkeys (Table 4).
+A significant (P < 0.001) increase in plasma IL-6 concentrations was noted in the HEV-infected turkeys, compared

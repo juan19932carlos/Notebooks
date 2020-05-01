@@ -1,0 +1,55 @@
+﻿Trypsin Treatment Unlocks Barrier for Zoonotic Bat Coronavirus Infection
+
+IMPORTANCE Overall, our studies demonstrate that proteolytic cleavage is the primary 
+barrier to infection for a subset of zoonotic coronaviruses. Moving forward, the
+results argue that both receptor binding and proteolytic cleavage of the spike are
+critical factors that must be considered for evaluating the emergence potential and
+risk posed by zoonotic coronaviruses. In addition, the ﬁndings also offer a novel
+means to recover previously uncultivable zoonotic coronavirus strains and argue
+that other tissues, including the digestive tract, could be a site for future coronavirus
+emergence events in humans.
+KEYWORDS MERS-CoV, PDF2180, coronavirus, emergence, spike, zoonotic
+
+ince the beginning of the 21st century, public health infrastructures have been
+required to periodically respond to new and reemerging zoonotic viral diseases,
+including inﬂuenza, Ebola, and Zika virus outbreaks (1). Severe acute respiratory
+March 2020 Volume 94 Issue 5 e01774-19
+
+syndrome coronavirus (SARS-CoV), the ﬁrst major outbreak of the century, highlighted
+the global impact of a newly emerging virus in the context of expanding development,
+increased globalization, and poor public health infrastructures (2–4). A decade later, the
+emergence and continued outbreaks of the Middle East respiratory syndrome coronavirus (MERS-CoV) further illustrate the ongoing threat posed by circulating zoonotic
+viruses (5). Together, the outbreaks of the early part of this century argue that
+continued preparations and vigilance are needed to maintain global public health.
+Despite their spontaneous emergence, several research approaches to rapidly respond and even predict outbreak strains already exist. During the MERS-CoV outbreak,
+our group and others were able to leverage reagents generated against related group
+2C coronaviruses, namely, HKU4- and HKU5-CoV (6, 7). These reagents, created independent of viable virus replication, provided valuable insights and models for testing
+serologic responses during the early stages of the MERS-CoV outbreak. Similarly,
+reverse genetics systems permitted the exploration of zoonotic coronaviruses (8); using
+the known SARS spike/ACE2 receptor interaction, chimeric viruses containing the
+backbones of bat CoVs were generated to evaluate the efﬁcacy of both vaccines and
+therapeutics (9–12). The inverse approach placed the zoonotic spike proteins in the
+context of the epidemic SARS-CoV backbone (13, 14). These studies provided insight
+into potential threats circulating in bats as well as the efﬁcacy of current therapeutic
+treatments (15). While far from comprehensive, the results indicated that these approaches, reagents, and predictions may prove useful in preparations for future CoV
+outbreaks.
+In this study, we extend the examination of zoonotic viruses to a novel MERS-like
+CoV strain isolated from a Ugandan bat, namely, PDF-2180 CoV (MERS-Uganda). Our
+initial attempt to cultivate a chimeric MERS-CoV containing the Ugandan MERS-like
+spike produced viral subgenomic transcripts but failed to result in infectious virus after
+electroporation (16). However, in the current study, we demonstrate that exogenous
+trypsin treatment produced high-titer virus capable of plaque formation and continued
+replication. These results are consistent with the recovery of enteric CoVs like porcine
+epidemic diarrhea virus (17) but have not previously been described as a major barrier
+for bat-derived CoVs. The chimeric Ugandan MERS-like spike virus could replicate
+efﬁciently in both Vero and Huh7 cells in the context of trypsin-containing media but
+failed to produce infection of either continuous or primary human respiratory cell
+cultures. Importantly, the MERS-Uganda chimeric virus successfully infected cells of the
+human digestive tract, potentially identifying another route for cross-species transmission and emergence. Notably, blockade of human DPP4, the receptor for MERS-CoV,
+had no signiﬁcant impact on replication of the chimeric MERS-Uganda virus, suggesting
+the use of an alternative receptor. Similarly, the addition of trypsin also rescued
+replication of full-length HKU5-CoV, a related group 2C bat CoV, and showed no
+replication defect during DPP4 blockade. Together, the results indicate that proteolytic
+activation of the spike protein is a potent constraint to infection for zoonotic CoVs and
+expand the correlates for CoV emergence beyond receptor binding alone.
+(This article was submitted to an online preprint archive [18].)
