@@ -1,0 +1,3 @@
+[submodule "NLP/Files/project-corpus"]
+	path = NLP/Files/project-corpus
+	url = git@github.com:UnalNer/texto-pdf.git
