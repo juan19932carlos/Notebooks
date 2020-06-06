@@ -1,3 +1,6 @@
-[submodule "NLP/Files/project-corpus"]
+[submodule "project-corpus"]
 	path = NLP/Files/project-corpus
 	url = git@github.com:UnalNer/texto-pdf.git
+[submodule "ml-coursera"]
+	path = ML Coursera/matlab
+	url = git@bitbucket.org:jcgamar/ml-coursera.git
