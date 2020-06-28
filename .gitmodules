@@ -4,3 +4,6 @@
 [submodule "ml-coursera"]
 	path = ML Coursera/matlab
 	url = git@bitbucket.org:jcgamar/ml-coursera.git
+[submodule "Notebooks"]
+	path = Notebooks
+	url = git@github.com:UnalNer/Notebooks.git
