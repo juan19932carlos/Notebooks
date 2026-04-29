@@ -2,4 +2,7 @@
 .vscode
 ./intelligent_data_analysis/iris.data
 .venv
+.DS_Store
+
+node_modules
 
